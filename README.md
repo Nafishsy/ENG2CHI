@@ -2,6 +2,7 @@
 
 This script simply reads the changes done by professor's found in MS Word's 'Track Changes' to equivalent chinese with the given formatting in english. 
 
-![Algorithm Flowchart](docs/Algorithm.png)
+![Algorithm Flowchart](Algorithm.png)
+
 
 
